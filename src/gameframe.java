@@ -9,7 +9,7 @@ public class gameframe extends JFrame{
         this.add(panel);
         this.setResizable(true);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
-        this.setBackground(Color.black);
+        this.setBackground(Color.WHITE);
         this.pack();
         this.setVisible(true);
         this.setLocationRelativeTo(null);
